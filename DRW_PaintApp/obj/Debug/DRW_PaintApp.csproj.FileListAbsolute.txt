@@ -1,0 +1,9 @@
+c:\users\drw\documents\visual studio 2015\Projects\DRW_PaintApp\DRW_PaintApp\bin\Debug\DRW_PaintApp.exe.config
+c:\users\drw\documents\visual studio 2015\Projects\DRW_PaintApp\DRW_PaintApp\bin\Debug\DRW_PaintApp.exe
+c:\users\drw\documents\visual studio 2015\Projects\DRW_PaintApp\DRW_PaintApp\bin\Debug\DRW_PaintApp.pdb
+c:\users\drw\documents\visual studio 2015\Projects\DRW_PaintApp\DRW_PaintApp\obj\Debug\DRW_PaintApp.csprojResolveAssemblyReference.cache
+c:\users\drw\documents\visual studio 2015\Projects\DRW_PaintApp\DRW_PaintApp\obj\Debug\DRW_PaintApp.Form1.resources
+c:\users\drw\documents\visual studio 2015\Projects\DRW_PaintApp\DRW_PaintApp\obj\Debug\DRW_PaintApp.Properties.Resources.resources
+c:\users\drw\documents\visual studio 2015\Projects\DRW_PaintApp\DRW_PaintApp\obj\Debug\DRW_PaintApp.csproj.GenerateResource.Cache
+c:\users\drw\documents\visual studio 2015\Projects\DRW_PaintApp\DRW_PaintApp\obj\Debug\DRW_PaintApp.exe
+c:\users\drw\documents\visual studio 2015\Projects\DRW_PaintApp\DRW_PaintApp\obj\Debug\DRW_PaintApp.pdb
